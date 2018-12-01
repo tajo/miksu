@@ -1,64 +1,90 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
+  <head>
+    <title>Vojtech Miksu</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript>
+      <link rel="stylesheet" href="assets/css/noscript.css"
+    /></noscript>
+  </head>
 
-<head>
-  <title>Vojtech Miksu</title>
-  <meta charset="utf-8" />
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <link rel="icon" href="favicon.ico" type="image/x-icon">
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="stylesheet" href="assets/css/main.css" />
-  <noscript>
-    <link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-</head>
+  <body class="is-loading">
+    <!-- Wrapper -->
+    <div id="wrapper">
+      <!-- Main -->
+      <section id="main">
+        <header>
+          <span class="avatar"
+            ><img src="images/profile.jpg" alt="" style="width:152px"
+          /></span>
+          <h1>Vojtech Miksu</h1>
+          <p>
+            Software Engineer, <a href="https://www.uber.com">Uber</a><br />
+            San Francisco
+          </p>
+        </header>
+        <footer>
+          <ul class="icons">
+            <li>
+              <a href="https://twitter.com/vmiksu" class="fa-twitter"
+                >Twitter</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/tajo" class="fa-github">GitHub</a>
+            </li>
+            <li>
+              <a href="https://www.linkedin.com/in/miksu" class="fa-linkedin"
+                >Linkedin</a
+              >
+            </li>
+            <li>
+              <a href="mailto:vojtech@miksu.cz" class="fa-envelope-o">E-mail</a>
+            </li>
+          </ul>
+          <h2>Talks</h2>
+          <p>
+            <a
+              href="https://www.webexpo.net/prague2018/talk?id=css-in-js-patterns"
+              >Webexpo 2018: "CSS in JS: Patterns"</a
+            >
+          </p>
+          <p>
+            <a href="https://blog.miksu.cz/">Czech blog</a><br />
+            <a href="https://www.dzejes.cz/">Czech series about JavaScript</a>
+          </p>
+        </footer>
+      </section>
 
-<body class="is-loading">
-
-  <!-- Wrapper -->
-  <div id="wrapper">
-
-    <!-- Main -->
-    <section id="main">
-      <header>
-        <span class="avatar"><img src="images/profile.jpg" alt="" style="width:152px" /></span>
-        <h1>Vojtech Miksu</h1>
-        <p>Front End Engineer, <a href="https://www.cloudflare.com">Cloudflare</a><br />
-          San Francisco</p>
-      </header>
-      <footer>
-        <ul class="icons">
-          <li><a href="https://twitter.com/vmiksu" class="fa-twitter">Twitter</a></li>
-          <li><a href="https://github.com/tajo" class="fa-github">GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/miksu" class="fa-linkedin">Linkedin</a></li>
-          <li><a href="mailto:vojtech@miksu.cz" class="fa-envelope-o">E-mail</a></li>
+      <!-- Footer -->
+      <footer id="footer">
+        <ul class="copyright">
+          <li>&copy; Vojtech Miksu 2018</li>
+          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
         </ul>
-        <h2>Talks</h2>
-        <p><a href="https://www.webexpo.net/prague2018/talk?id=css-in-js-patterns">Webexpo 2018: "CSS in JS:
-            Patterns"</a></p>
-        <p><a href="https://blog.miksu.cz/">Czech blog</a><br />
-          <a href="https://www.dzejes.cz/">Czech series about JavaScript</a></p>
       </footer>
-    </section>
+    </div>
 
-    <!-- Footer -->
-    <footer id="footer">
-      <ul class="copyright">
-        <li>&copy; Vojtech Miksu 2017</li>
-        <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-      </ul>
-    </footer>
-
-  </div>
-
-  <!-- Scripts -->
-  <!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
-  <script>
-    if ('addEventListener' in window) {
-      window.addEventListener('load', function () { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
-      document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
-    }
-  </script>
-
-</body>
-
+    <!-- Scripts -->
+    <!--[if lte IE 8
+      ]><script src="assets/js/respond.min.js"></script
+    ><![endif]-->
+    <script>
+      if ("addEventListener" in window) {
+        window.addEventListener("load", function() {
+          document.body.className = document.body.className.replace(
+            /\bis-loading\b/,
+            ""
+          );
+        });
+        document.body.className += navigator.userAgent.match(/(MSIE|rv:11\.0)/)
+          ? " is-ie"
+          : "";
+      }
+    </script>
+  </body>
 </html>
