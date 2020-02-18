@@ -7,15 +7,9 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
-    <noscript>
-      <link rel="stylesheet" href="assets/css/noscript.css"
-    /></noscript>
   </head>
-
   <body class="is-loading">
-    <!-- Wrapper -->
     <div id="wrapper">
-      <!-- Main -->
       <section id="main">
         <header>
           <span class="avatar"
@@ -47,34 +41,41 @@
             </li>
           </ul>
           <h2>Talks</h2>
-          <p>
-            <a href="https://www.youtube.com/watch?v=y_XkQ2qMTSA"
-              >React Advanced: "What a Drag" (London, 2019)</a
-            ><br />
-            <a href="https://slideslive.com/38910574/css-in-js-patterns"
-              >Webexpo: "CSS in JS: Patterns" (Prague, 2018)</a
-            >
-          </p>
-          <p>
-            <a href="https://blog.miksu.cz/">Czech blog</a><br />
-            <a href="https://www.dzejes.cz/">Czech series about JavaScript</a>
-          </p>
+          <ul>
+            <li>
+              <a href="https://www.youtube.com/watch?v=y_XkQ2qMTSA"
+                >What a Drag (React Advanced, London 2019)</a
+              >
+            </li>
+            <li>
+              <a href="https://slideslive.com/38910574/css-in-js-patterns"
+                >CSS in JS: Patterns (Webexpo, Prague 2018)</a
+              >
+            </li>
+          </ul>
+          <h2>Articles</h2>
+          <ul>
+            <li>
+              <a href="https://baseweb.design/blog/introducing-react-view/"
+                >Introducing React View (2019)</a
+              >
+            </li>
+            <li>
+              <a href="https://baseweb.design/blog/drag-and-drop-list/"
+                >Building a Drag and Drop List (2019)</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://blog.cloudflare.com/cloudflares-json-powered-documentation-generator/"
+                >Cloudflare's JSON-powered Documentation Generator (2016)</a
+              >
+            </li>
+          </ul>
         </footer>
       </section>
-
-      <!-- Footer -->
-      <footer id="footer">
-        <ul class="copyright">
-          <li>&copy; Vojtech Miksu 2018</li>
-          <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-        </ul>
-      </footer>
+      <footer id="footer"></footer>
     </div>
-
-    <!-- Scripts -->
-    <!--[if lte IE 8
-      ]><script src="assets/js/respond.min.js"></script
-    ><![endif]-->
     <script>
       if ("addEventListener" in window) {
         window.addEventListener("load", function() {
@@ -83,9 +84,6 @@
             ""
           );
         });
-        document.body.className += navigator.userAgent.match(/(MSIE|rv:11\.0)/)
-          ? " is-ie"
-          : "";
       }
     </script>
   </body>
