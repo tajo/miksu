@@ -5,7 +5,6 @@
 - 404 988 8702
 - San Francisco, CA
 - [GitHub](https://github.com/tajo)
-- [LinkedIn](https://www.linkedin.com/in/miksu)
 
 ## Experience
 
@@ -41,14 +40,14 @@ _October 2013 – March 2016 (partly remote)_
 
 **Georgia Institute of Technology, Atlanta, GA**
 
-_M.S. in Cybersecurity, 2015 - 2016_
+_M.S. in Cybersecurity, 2015 – 2016_
 
 - Receiver of Naumann-Etienne Foundation Scholarship
 - Focusing on network security and DNS datasets visualizations.
 
 **Czech Technical University, Prague, Czech Republic**
 
-_B.S. in Computer Science 2010 - 2014_
+_B.S. in Computer Science 2010 – 2014_
 
 - Spent one year at MSOE, Milwaukee, WI as an exchange student.
 - Focusing on machine learning and deep learning.
