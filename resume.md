@@ -10,7 +10,7 @@
 
 **Uber, Software Engineer, San Francisco, CA**
 
-_December 2018 – present_
+_December 2018 - present_
 
 - Building and maintaining component library [Base Web](https://baseweb.design) and CSS in JS [Styletron](https://www/styletron.org), popular OSS projects used by 500+ web applications and 1000 developers at Uber.
 - Leading the development and open-sourcing of multiple other libraries as [react-movable](https://github.com/tajo/react-movable), [react-view](https://github.com/uber/react-view) and [react-range](https://github.com/tajo/react-range).
@@ -18,7 +18,7 @@ _December 2018 – present_
 
 **Cloudflare, Front End Engineer, San Francisco, CA**
 
-_January 2017 – December 2018_
+_January 2017 - December 2018_
 
 - Driving products as Shared Account Access, On-boarding Redesign and Billing Redesign through planning, implementation and release cycle.
 - Driving incremental migration from Backbone/Marionette/Gulp/Karma to React/Redux/TypeScript/Webpack/Jest.
@@ -26,11 +26,11 @@ _January 2017 – December 2018_
 - Building a component library cf-ui, deploying and evangelizing CSS in JS.
 - Leading modularization of the main dashboard application with Lerna and Yarn Workspaces. Creating a framework used by multiple internal applications.
 - Implemented JSON Schema powered documentation generator. Open sourced as doca.
-- Switched the main dashboard application’s build process from Browserify and custom scripts to Webpack and Babel.
+- Switched the main dashboard application's build process from Browserify and custom scripts to Webpack and Babel.
 
 **Wikidi, Front End Engineer, Prague, Czech Rebublic**
 
-_October 2013 – March 2016 (partly remote)_
+_October 2013 - March 2016 (partly remote)_
 
 - Lead developer at Flowreader.com.
 - Executed migration from CoffeeScript, Google Closure Library and Closure Compiler to Babel, React, Flux and Browserify.
@@ -40,14 +40,14 @@ _October 2013 – March 2016 (partly remote)_
 
 **Georgia Institute of Technology, Atlanta, GA**
 
-_M.S. in Cybersecurity, 2015 – 2016_
+_M.S. in Cybersecurity, 2015 - 2016_
 
 - Receiver of Naumann-Etienne Foundation Scholarship
 - Focusing on network security and DNS datasets visualizations.
 
 **Czech Technical University, Prague, Czech Republic**
 
-_B.S. in Computer Science 2010 – 2014_
+_B.S. in Computer Science 2010 - 2014_
 
 - Spent one year at MSOE, Milwaukee, WI as an exchange student.
 - Focusing on machine learning and deep learning.
