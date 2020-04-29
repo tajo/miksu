@@ -13,6 +13,7 @@
 _December 2018 - present_
 
 - Building and maintaining component library [Base Web](https://baseweb.design) and CSS in JS [Styletron](https://www/styletron.org), popular OSS projects used by 500+ web applications and 1000 developers at Uber.
+- Building monorepo tooling to provide easy-to-use and realiable visual regression testing for all of our web applications.
 - Leading the development and open-sourcing of multiple other libraries as [react-movable](https://github.com/tajo/react-movable), [react-view](https://github.com/uber/react-view) and [react-range](https://github.com/tajo/react-range).
 - Mentoring various people as a member of Uber's Open Source Committee, Web Technical Steering Council and also helping non-engineers to learn basics of web development.
 
@@ -32,8 +33,8 @@ _January 2017 - December 2018_
 
 _October 2013 - March 2016 (partly remote)_
 
-- Lead developer at Flowreader.com.
-- Executed migration from CoffeeScript, Google Closure Library and Closure Compiler to Babel, React, Flux and Browserify.
+- Working on Flowreader.com, an RSS reader with social network integrations.
+- Executed a migration from CoffeeScript, Google Closure Library and Closure Compiler to Babel, React, Flux and Browserify.
 - Driving various product/feature work.
 
 ## Education
