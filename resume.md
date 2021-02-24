@@ -12,7 +12,7 @@
 
 _December 2018 - present_
 
-- Building and maintaining component library [Base Web](https://baseweb.design) and CSS in JS [Styletron](https://www/styletron.org), popular OSS projects used by 500+ web applications and 1000 developers at Uber.
+- Building and maintaining component library [Base Web](https://baseweb.design) and CSS in JS [Styletron](https://www.styletron.org), popular OSS projects used by 500+ web applications and 1000 developers at Uber.
 - Building monorepo tooling to provide easy-to-use and realiable visual regression testing for all of our web applications.
 - Leading the development and open-sourcing of multiple other libraries as [react-movable](https://github.com/tajo/react-movable), [react-view](https://github.com/uber/react-view) and [react-range](https://github.com/tajo/react-range).
 - Mentoring various people as a member of Uber's Open Source Committee, Web Technical Steering Council and also helping non-engineers to learn basics of web development.
