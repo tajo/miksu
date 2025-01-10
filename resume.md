@@ -1,67 +1,84 @@
 # Vojtech Miksu
 
-- Software Engineer at Uber
-- vojtech@miksu.cz
-- 404 988 8702
-- San Francisco, CA
+- **Senior Software Engineer at Uber**
+- **vojtech@miksu.cz**
+- **404 988 8702**
+- **San Francisco, CA**
 - [GitHub](https://github.com/tajo)
+- [LinkedIn](https://www.linkedin.com/in/miksu)
+
+---
 
 ## Experience
 
-**Uber, Software Engineer, San Francisco, CA**
+### **Uber, Senior Software Engineer**
 
-_December 2018 - present_
+_San Francisco, CA_  
+_December 2018 – Present_
 
-- Building and maintaining component library [Base Web](https://baseweb.design) and CSS in JS [Styletron](https://www.styletron.org), popular OSS projects used by 500+ web applications and 1000 developers at Uber.
-- Building monorepo tooling to provide easy-to-use and realiable visual regression testing for all of our web applications.
-- Leading the development and open-sourcing of multiple other libraries as [react-movable](https://github.com/tajo/react-movable), [react-view](https://github.com/uber/react-view) and [react-range](https://github.com/tajo/react-range).
-- Mentoring various people as a member of Uber's Open Source Committee, Web Technical Steering Council and also helping non-engineers to learn basics of web development.
+- Leading the development of **Visual Snapshots**, a unified platform for visual regression testing across iOS, Android, and web at Uber. The system continuously tracks and compares ~100,000 components across 300+ projects in CI, preventing visual bugs from reaching production.
+- Driving the development and open-sourcing of multiple popular libraries, including:
+  - [ladle](https://github.com/tajo/ladle)
+  - [react-movable](https://github.com/tajo/react-movable)
+  - [react-view](https://github.com/uber/react-view)
+  - [react-range](https://github.com/tajo/react-range)
+- Building and maintaining the **Base Web** component library ([Base Web](https://baseweb.design)) and **Styletron** CSS-in-JS framework ([Styletron](https://www.styletron.org)), which are widely used across Uber by 500+ applications and over 1,000 developers.
+- Enhancing Uber's web platform through:
+  - Performance improvements by adopting **Vite** and **SWC**.
+  - Automating dependency upgrades.
+  - Optimizing CI runtimes.
+- Mentoring colleagues through initiatives like the Open Source Committee and Web Technical Steering Council, and supporting non-engineers in learning web development basics.
 
-**Cloudflare, Front End Engineer, San Francisco, CA**
+### **Cloudflare, Software Engineer**
 
-_January 2017 - December 2018_
+_San Francisco, CA_  
+_January 2017 – December 2018_
 
-- Driving products as Shared Account Access, On-boarding Redesign and Billing Redesign through planning, implementation and release cycle.
-- Driving incremental migration from Backbone/Marionette/Gulp/Karma to React/Redux/TypeScript/Webpack/Jest.
-- Replacing routing with react-router and implementing better access control.
-- Building a component library cf-ui, deploying and evangelizing CSS in JS.
-- Leading modularization of the main dashboard application with Lerna and Yarn Workspaces. Creating a framework used by multiple internal applications.
-- Implemented JSON Schema powered documentation generator. Open sourced as doca.
-- Switched the main dashboard application's build process from Browserify and custom scripts to Webpack and Babel.
+- Led key product initiatives, including shared account access, onboarding redesign, and billing redesign, from planning to implementation and release.
+- Spearheaded the migration from Backbone/Marionette/Gulp/Karma to React/Redux/TypeScript/Webpack/Jest.
+- Replaced routing with react-router and implemented improved access control mechanisms.
+- Built a component library, **cf-ui**, while deploying and evangelizing CSS-in-JS practices.
+- Modularized the main dashboard application using Lerna and Yarn Workspaces, creating a framework used by multiple internal apps.
+- Created a JSON Schema-powered documentation generator, later open-sourced as [doca](https://github.com/cloudflare/doca).
+- Migrated the build process from Browserify and custom scripts to Webpack and Babel.
 
-**Wikidi, Front End Engineer, Prague, Czech Rebublic**
-
-_October 2013 - March 2016 (partly remote)_
-
-- Working on Flowreader.com, an RSS reader with social network integrations.
-- Executed a migration from CoffeeScript, Google Closure Library and Closure Compiler to Babel, React, Flux and Browserify.
-- Driving various product/feature work.
+---
 
 ## Education
 
-**Georgia Institute of Technology, Atlanta, GA**
+### **Georgia Institute of Technology**
 
-_M.S. in Cybersecurity, 2015 - 2016_
+_Atlanta, GA_  
+_M.S. in Cybersecurity_  
+_2015 – 2016_
 
-- Receiver of Naumann-Etienne Foundation Scholarship
-- Focusing on network security and DNS datasets visualizations.
+- Recipient of the Naumann-Etienne Foundation Scholarship.
+- Focused on network security and DNS dataset visualizations.
 
-**Czech Technical University, Prague, Czech Republic**
+### **Czech Technical University**
 
-_B.S. in Computer Science 2010 - 2014_
+_Prague, Czech Republic_  
+_B.S. in Computer Science_  
+_2010 – 2014_
 
-- Spent one year at MSOE, Milwaukee, WI as an exchange student.
-- Focusing on machine learning and deep learning.
+- Spent one year at MSOE, Milwaukee, WI, as an exchange student.
+- Focused on machine learning and deep learning.
 
-## Conference Talks
+---
 
-- Introducing React View, React Summit, Amsterdam 2020 (upcoming)
-- [What a Drag](https://www.youtube.com/watch?v=y_XkQ2qMTSA), React Advanced, London 2019
-- What a Drag, RSConf, Minsk 2019
+## Talks
+
+- [Next-gen tooling for developers](https://www.knapsack.cloud/blog/vojtech-miksu-from-uber-next-gen-tooling-for-developers), Knapsack Podcast, 2022
+- [Introducing React View](https://www.youtube.com/watch?v=9ZYNSxkDvKY), React Summit, Amsterdam 2020
+- [What a Drag](https://www.youtube.com/watch?v=y_XkQ2qMTSA), React Advanced, London 2019 and RSConf, Minsk 2019
 - [CSS in JS: Patterns](https://slideslive.com/38910574/css-in-js-patterns), Webexpo, Prague 2019
+
+---
 
 ## Articles
 
+- [Introducing Ladle](https://www.ladle.dev/blog/introducing-ladle), 2022
+- [Nested Overrides Playground](https://baseweb.design/blog/nested-overrides-playground), 2020
 - [VS Code Extension for Base Web](https://baseweb.design/blog/vs-code-extension/), 2020
 - [Introducing React View](https://baseweb.design/blog/introducing-react-view/), 2019
 - [Building a Drag and Drop List](https://baseweb.design/blog/drag-and-drop-list/), 2019
