@@ -1,6 +1,6 @@
 # Vojtech Miksu
 
-- **Senior Software Engineer at Uber**
+- **Software Engineer at Vercel**
 - **vojtech@miksu.cz**
 - **404 988 8702**
 - **San Francisco, CA**
@@ -11,10 +11,17 @@
 
 ## Experience
 
+### **Vercel, Software Engineer**
+
+_San Francisco, CA_  
+_April 2025 - present_
+
+- Platform team
+
 ### **Uber, Senior Software Engineer**
 
 _San Francisco, CA_  
-_December 2018 – Present_
+_December 2018 – April 2025_
 
 - Leading the development of **Visual Snapshots**, a unified platform for visual regression testing across iOS, Android, and web at Uber. The system continuously tracks and compares ~100,000 components across 300+ projects in CI, preventing visual bugs from reaching production.
 - Driving the development and open-sourcing of multiple popular libraries, including:
